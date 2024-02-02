@@ -5,5 +5,6 @@
 
  Estou aprendendo a criar sites
 
- Alguns projetos originais na pasta Projetos 
- <a href="josefelipper.github.io/html-css/ex001/">acesse o primeiro exercício</a>
+ Alguns projetos originais na pasta Projetos
+
+ <a href="josefelipper.github.io/html-css/exercicios/ex001/">acesse o primeiro exercício</a>
